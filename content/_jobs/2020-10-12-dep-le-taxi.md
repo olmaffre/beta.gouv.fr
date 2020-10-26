@@ -2,7 +2,7 @@
 roles: Un ou une chargé(e) de déploiement junior
 startup: le-taxi
 title: L’équipe de l'API le.taxi cherche un(e) chargé(e) de déploiement junior
-roles: Un(e) chargé(e) de déploiement
+roles: Un(e) chargé(e) de déploiement 
 open: true
 ---
 
