@@ -1,12 +1,12 @@
 ---
-roles: Un ou une chargé(e) de déploiement
+roles: Un ou une chargé(e) de déploiement junior
 startup: le-taxi
-title: L’équipe de l'API le.taxi cherche un(e) chargé(e) de déploiement
+title: L’équipe de l'API le.taxi cherche un(e) chargé(e) de déploiement junior
 roles: Un(e) chargé(e) de déploiement
 open: true
 ---
 
-Vous rejoindrez l’équipe autonome qui développe le registre national des taxis !
+Venez rejoindre l’équipe autonome qui développe le registre national des taxis !
 
 # Le produit
 
@@ -18,7 +18,6 @@ Le.Taxi a été lancé en 2015. Il s’agit d’une API mise à disposition :
 
 La Loi d’Orientation des Mobilités votée fin 2019 rend obligatoire la connexion à ce registre pour l’ensemble des taxis français. Cette obligation va déclencher un surcroît d’activité dans les prochains mois, notamment en ce qui concerne la connexion à l’API des opérateurs de taxis. 
  Il s’agira plus particulièrement des missions suivantes : 
-Nous cherchons donc une personne pour rejoindre notre équipe afin d’atteindre l’objectif de connexion de l’ensemble des chauffeurs de taxis au niveau national en 2021. Il s’agira plus particulièrement des missions suivantes : 
 - Assister notre responsable de projet dans le déploiement de l’API auprès des partenaires :  équipementiers taxis, applications grand public, applications réservés aux chauffeurs, compagnies de taxis (validation des demandes, suivi de la connexion…)
 - Améliorer les supports de communication à destination des opérateurs et chauffeurs de taxis ;
 - Animer et stimuler les partenariats noués, par exemple en organisant des rencontres de la communauté ;
@@ -28,9 +27,11 @@ Nous cherchons donc une personne pour rejoindre notre équipe afin d’atteindre
 
 # Compétences et expérience
 
-Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez.
-Vous êtes intéressé(e) par les projets open data et par les politiques publiques de transport
-Vous aimez travailler en équipe et avez envie de vous impliquer dans la co-construction d’un produit
+Première expérience dans le secteur du commerce ou de la mobilité souhaitée mais non obligatoire, le poste étant ouvert à des débutants.
+En termes d'intérêts, ce poste vous correspondra si : 
+- Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez.
+- Vous êtes intéressé(e) par les projets open data et par les politiques publiques de transport.
+- Vous aimez travailler en équipe et avez envie de vous impliquer dans la co-construction d’un produit.
 
 #  L’équipe
 
@@ -40,13 +41,9 @@ Nous travaillons principalement à distance (télétravail ou coworking) et nous
 
 # Modalités
 
-Démarrage : dès que possible 
-Poste ouvert aux personnes travaillant en statut indépendant.
-Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté beta.gouv.fr (plus d’infos : https://beta.gouv.fr/communaute/).
-
-# Rémunération
-
-La rémunération prévue est calculée à partir d’un taux journalier à définir en fonction de votre niveau d’expérience, entre 250 et 450 euros / jour.
+- Démarrage : janvier 2021
+- Poste ouvert aux personnes travaillant en statut indépendant. Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté beta.gouv.fr (plus d’infos : https://beta.gouv.fr/communaute/).
+- Rémunération : Taux journalier adapté à un profil junior, entre 250 et 300 €, sur 16jours/mois en moyenne.
 
 # Candidater
 
